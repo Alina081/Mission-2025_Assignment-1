@@ -1,0 +1,189 @@
+h1 {
+    font-family: "Yeseva One", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 45px;
+}
+
+
+.title-color {
+    color: #FFAD5A;
+}
+
+.Focused_mission {
+    border-left: 4px solid;
+    padding-left: 12px;
+    border-color: #FF5959;
+    border-radius: 2px;
+
+
+}
+
+
+.our-mission {
+    font-family: Poppins;
+    font-size: 18px;
+
+}
+
+.button {
+    text-decoration: none;
+    background-color: #FF5959;
+    border: solid;
+    border-color: #FF5959;
+    padding: 10px 28px;
+    border-radius: 5px;
+    color: white;
+    font-family: Poppins;
+    font-size: 16px;
+
+}
+
+.half-width {
+    width: 50%;
+    padding-top: 45px;
+    padding-right: 8%;
+    padding-left: 10%;
+
+}
+
+.half-width img {
+    width: 90%;
+}
+
+.felxible {
+    display: flex;
+}
+
+
+.scroll-down {
+    font-family: Poppins;
+    font-size: 18px;
+    padding: 10%;
+}
+
+
+.mission-title {
+    text-align: center;
+}
+
+h2 {
+    font-family: Poppins;
+}
+
+.illustrators {
+    width: 30%;
+}
+
+.my-mission-2025 p {
+    font-family: Poppins;
+    font-size: 14px;
+}
+
+.mission {
+    border: solid;
+    background-color: #95c6cc42;
+    border-color: #95c6cc42;
+    border: 0px;
+    border-radius: 26px;
+
+}
+
+.Vission {
+    border: solid;
+    background-color: rgba(241, 171, 171, 0.283);
+    border-color: rgba(241, 171, 171, 0.283);
+    border: 0px;
+    border-radius: 26px;
+    margin-left: 5%;
+
+}
+
+.Goals {
+    border: solid;
+    background-color: #FFF4D6;
+    border-color: #FFF4D6;
+    border-radius: 20px;
+    border: 0px;
+    border-radius: 26px;
+}
+
+
+.my-mission-2025 {
+
+    border-width: 100%;
+    padding: 15px;
+    margin-left: 3%;
+}
+
+.all-mission {
+    padding: 45px 120px;
+}
+
+.Develop {
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20%;
+}
+
+.develop-withoutlimit img {
+    width: 90%;
+    padding-left: 50px;
+    padding-top: 5%;
+
+}
+
+
+.develop-withoutlimit {
+    font-family: Poppins;
+    font-size: 16px;
+    padding-bottom: 20%;
+    padding: 25px;
+
+}
+
+.title {
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.global-title {
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+
+.Global-Community {
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 20%;
+}
+
+.half-width p {
+    font-family: Poppins;
+    font-size: 16px;
+}
+
+.benifit {
+    width: 90%;
+    height: 100%;
+}
+
+.benifit-describe {
+    padding-left: 30px;
+}
+
+footer {
+    width: 100%;
+    padding: 50px;
+    text-align: center;
+    color: azure;
+    background-color: black;
+
+
+}
